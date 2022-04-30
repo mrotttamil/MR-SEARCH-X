@@ -1,10 +1,10 @@
 class _BotCommands:
     def __init__(self):
-        self.StartCommand = 'start'
-        self.ListCommand = 'search'
-        self.AuthorizedUsersCommand = 'users'
-        self.AuthorizeCommand = 'auth'
-        self.UnAuthorizeCommand = 'unauth'
-        self.LogCommand = 'log'
+        self.StartCommand = 'startx'
+        self.ListCommand = 'searchx'
+        self.AuthorizedUsersCommand = 'usersx'
+        self.AuthorizeCommand = 'authx'
+        self.UnAuthorizeCommand = 'unauthx'
+        self.LogCommand = 'logx'
 
 BotCommands = _BotCommands()
